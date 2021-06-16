@@ -8,6 +8,7 @@ Curso de Git y GitHub
 - Flujo de trabajo en GitHub
 - Creado por Leonardo Alvarado
 - Platzi
+- Courses
 
 Este no es un **readme.md** final.
 
